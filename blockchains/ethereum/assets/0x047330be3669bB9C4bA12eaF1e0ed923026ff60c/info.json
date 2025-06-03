@@ -1,7 +1,1 @@
-{
-  "name": "JSONRCV USDT",
-  "symbol": "JUSDT",
-  "decimals": 18,
-  "status": "active",
-  "id": "0x047330be3669bB9C4bA12eaF1e0ed923026ff60c"
-}
+{"name": "JUSDT", "symbol": "JUSDT", "address": "0x047330be3669bB9C4bA12eaF1e0ed923026ff60c"}
